@@ -22,5 +22,7 @@
 <img src="./assests/readme_img/Screenshot 2023-06-20 001637.png" alt="Problem3" width="100%">
 <img src="./assests/readme_img/Screenshot 2023-06-20 001654.png" alt="Problem4" width="100%">
 
+## deployment
 
+- [Live Demo](https://princekumarg.github.io/DsaSolver/)
 ## all of these question i have taken from leetcode.
