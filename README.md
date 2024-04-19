@@ -15,6 +15,20 @@
     <li>String</li>
     <li>Trees</li>
 </ul>
+| Topic    | No of questions |
+| -------- | --- |
+| Arrays | 30  |
+| Bitsmanupulations | 25  |
+| Dynamic_programing    | 35  |
+| Graphs | 20 |
+| Linked List | 20 |
+| Maths | 20 |
+| Recursion | 20 |
+| Searching | 20 |
+| Sorting | 20 |
+| Stack_Queue | 20 |
+| String | 20 |
+| Trees | 20 |
 <h3>Main Pages</h3>
 <img src="./assests/readme_img/Screenshot 2023-06-20 001525.png" alt="My Dashboard" width="100%">
 <h3>Problem Pages</h3>
