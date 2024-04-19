@@ -28,4 +28,4 @@
 ## deployment
 
 - [Live Demo](https://princekumarg.github.io/DsaSolver/)
-## all of these question i have taken from leetcode.
+#### all of these question i have taken from [Leetcode](https://leetcode.com/prince_agrawal2002/) [GFG](https://www.geeksforgeeks.org/user/agarwal8s3/) [Codechef](https://www.codechef.com/users/sv_20781a05g7).
