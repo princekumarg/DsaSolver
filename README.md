@@ -15,6 +15,14 @@
     <li>String</li>
     <li>Trees</li>
 </ul>
+| Name     | Age |
+| -------- | --- |
+| John Doe | 30  |
+| Jane Doe | 25  |
+| Alice    | 35  |
+
+
+
 | Topic    | No of questions |
 | -------- | --- |
 | Arrays | 30  |
