@@ -1,38 +1,23 @@
 <h1 style="color:blue;text-align:center;">DSA Solver WEBPAGES USING HTML,CSS</h1>
 <h2>About</h2>
-<p>it contain Diffrent topic of DSA</p>
-<ul>
-    <li>ARRAYS</li>
-    <li>Bitsmanupulations</li>
-    <li>Dynamic_programing</li>
-    <li>Graphs</li>
-    <li>Linked List</li>
-    <li>Maths</li>
-    <li>Recursion</li>
-    <li>Searching</li>
-    <li>Sorting</li>
-    <li>Stack_Queue</li>
-    <li>String</li>
-    <li>Trees</li>
-</ul>
-
-
+<p>it contain Diffrent topic of DSA With the number question</p>
 
 
 | Topic    | No of questions |
 | -------- | --- |
-| Arrays | 30  |
-| Bitsmanupulations | 25  |
-| Dynamic_programing    | 35  |
-| Graphs | 20 |
-| Linked List | 20 |
-| Maths | 20 |
-| Recursion | 20 |
-| Searching | 20 |
-| Sorting | 20 |
-| Stack_Queue | 20 |
-| String | 20 |
-| Trees | 20 |
+| Arrays | 41  |
+| Bitsmanupulations | 27  |
+| Dynamic_programing    | 10  |
+| Graphs | 10 |
+| Linked List | 47 |
+| Maths | 26 |
+| Recursion | 52 |
+| Searching | 42 |
+| Sorting | 42 |
+| Stack_Queue | 29 |
+| String | 52 |
+| Trees | 37 |
+
 <h3>Main Pages</h3>
 <img src="./assests/readme_img/Screenshot 2023-06-20 001525.png" alt="My Dashboard" width="100%">
 <h3>Problem Pages</h3>
