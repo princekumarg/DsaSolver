@@ -21,4 +21,6 @@
 <img src="./assests/readme_img/Screenshot 2023-06-20 001614.png" alt="Problem1" width="100%">
 <img src="./assests/readme_img/Screenshot 2023-06-20 001637.png" alt="Problem3" width="100%">
 <img src="./assests/readme_img/Screenshot 2023-06-20 001654.png" alt="Problem4" width="100%">
-## all of these question i have taken from Kunal kushwaha Dsa bootcamp and leetcode.
+
+
+## all of these question i have taken from leetcode.
